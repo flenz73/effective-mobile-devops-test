@@ -1,4 +1,4 @@
-# Effective Mobile — тестовое задание (DevOps)
+# Effective Mobile. Тестовое задание (DevOps)
 
 Небольшой проект из двух контейнеров:
 - `backend` на Python отвечает текстом `Hello from Effective Mobile!`
